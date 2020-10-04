@@ -1,5 +1,6 @@
 # School Homework Control System
 
+This code was written in one night - really not quality one. The goal was to provide system for my sql asap.
 
 ## Following languages was used in this project
 - [x] HTML
